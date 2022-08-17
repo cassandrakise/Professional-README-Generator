@@ -1,24 +1,24 @@
 # README Generator
   ![License:](https://img.shields.io/badge/License-mit-blue)
-## Description: 
-  * This project catalogs author data
+## 📓 Description: 
+  * This project is intended to generate a README of a current project a developer is working on.
 
-## Table of Contents:
-  * function split() { [native code] }
+## 🗄️ Table of Contents:
+  * Installation, Usage, Contributors, Tests, Questions
 
-### Installation:
-  * Once this repo is cloned from the original repo, please install the "npm i inquirer" package.
+### 📲 Installation:
+  * Upon copying this from the original repo, please execute 'npm i inquirer' in the terminal to download all packages.
 
 ### Usage:
-  * The purpose of this app is to generate README files that properly reflect associated projects.
+  * Intended to create shared clarity on projects.
 
-### Contributors:
+### 📕 🖋 👩 Contributors:
   * Cassie Kise
 
-### Tests Used:
+### 📝 Tests Used:
   * See documentation.
 
-#### If you have questions please contact the following:
+#### 🙋🏻 If you have questions please contact the following:
   * Cassie Kise at cassandrakise@gmail.com. 
   * You may also copy this repo on their GitHub at: https://github.com/cassandrakise
 
